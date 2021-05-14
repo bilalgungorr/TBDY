@@ -138,9 +138,9 @@ def findPH(SDS, BKS, HN, yapi_durumu, DD=-1):
     
     Notes = ['Not: On tasarim olarak yapilacaktir.',
              'Not: I = 1.5 alinarak uygulanacaktir.',
-             'Not: Bölüm 8’de tanımlanan tam ard-germeli önüretimli binaların\
-    ön tasarımı DGT yaklaşımı ile, kesin tasarımı ise 8.4.3’e göre\
-    ŞGDT yaklaşımı ile yapılacaktır.']
+             'Not: Bolum 8’de tanimlanan tam ard-germeli onuretimli binalarin\
+    on tasarimi DGT yaklasimi ile, kesin tasarimi ise 8.4.3’e gore\
+    SGDT yaklasimi ile yapilacaktir.']
    
     if DD in ['DD2', -1]:
         if group == ['a2', 'b1', 'b2']:
